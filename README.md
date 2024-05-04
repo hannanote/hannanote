@@ -1,5 +1,9 @@
 ### About me
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hanna Young" />
+</h1>
+
 <h1 align="left">Hi 👋, I'm Hanna Young</h1>
 <h3 align="left">A passionate Data Scientist from US</h3>
 
