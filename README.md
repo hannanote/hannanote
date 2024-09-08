@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
- 📫  **hannayoungchoi@gmail.com** <br>
+ 📫 reach me **hannayoungchoi@gmail.com** <br>
 
 
 <p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
