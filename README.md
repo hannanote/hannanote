@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Hanna Young</h1>
 <h3 align="left">A passionate Data Scientist from US</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hannanote/hannanote/tree/main](https://github.com/hannanote/hannanote/tree/main)
+- 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
 - 📫 email **hannayoungchoi@gmail.com**
 
 <p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
