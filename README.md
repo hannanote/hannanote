@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">, I'm Hanna Young</h1>
+<h1 align="left">Hi 👋 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">, I'm Hanna Young</h1>
 <h3 align="left">A passionate Data Scientist from US</h3>
 
 - 📫 How to reach me **hannayoungchoi@gmail.com**
