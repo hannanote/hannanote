@@ -6,14 +6,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
- 📫 **hannayoungchoi@gmail.com** <br>
+ 📫  **hannayoungchoi@gmail.com** <br>
 
 <p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300"> <br>
-***
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
