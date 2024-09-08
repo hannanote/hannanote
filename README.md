@@ -1,12 +1,13 @@
 ### About me
 
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">, I'm Hanna Young</h1>
+<h1 align="left">Hi 👋, I'm Hanna Young</h1>
 <h3 align="left">A passionate Data Scientist from US</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
  📫  **hannayoungchoi@gmail.com** <br>
+ linkedin
 
 <p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
 </p>
