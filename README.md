@@ -6,8 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
 - 📫 email **hannayoungchoi@gmail.com**
 
-p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
-/p
+<<p align="left"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30">
+
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/hanna-young-choi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/hanna-young-choi" height="30" width="30" /></a>
