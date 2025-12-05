@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm **Na Young** 
 <h3 align="left">Data Scientist </h3>
-### ML Engineering • Experimentation • Analytics
+<h3 align="left"> ML Engineering • Experimentation • Analytics </h3>
 
 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
 
