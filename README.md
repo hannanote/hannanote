@@ -1,7 +1,8 @@
 ### About me
 
 # 👋 Hello, I'm **Na Young** 
-<h3 align="left">Data Scientist | Machine Learning Engineer </h3>
+<h3 align="left">Data Scientist </h3>
+### ML Engineering • Experimentation • Analytics
 
 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
 
