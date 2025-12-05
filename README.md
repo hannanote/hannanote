@@ -1,6 +1,6 @@
 ### About me
 
-## 👋 Hello, I'm **Na Young** 
+# 👋 Hello, I'm **Na Young** 
 <h3 align="left">Data Scientist | Machine Learning Engineer </h3>
 
 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300"> 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/hanna-young-choi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/hanna-young-choi" height="30" width="30" /></a>
+
 <br>
 
 <br>
