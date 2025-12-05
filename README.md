@@ -1,6 +1,6 @@
 ### About me
 
-<h2 align="left">👋 Hello, I'm **[Na Young]** 
+<h2 align="left">👋 Hello, I'm **Na Young**  
 <h3 align="left">Data Scientist | Machine Learning Engineer </h3>
 
 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
