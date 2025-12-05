@@ -1,10 +1,10 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm Hanna Young</h1>
-<h3 align="left">A passionate Data Scientist from US</h3>
+<h1 align="left">👋 Hello, I'm Na Young</h1>
+<h3 align="left">Data Scientist | Machine Learning Engineer </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hannanote](https://github.com/hannanote)
-- 📫 email **hannayoungchoi@gmail.com**
+
 
 
 </p>
